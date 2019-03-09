@@ -1,0 +1,30 @@
+.jumbotron {
+    background: url('../images/train-header.jpg');
+    background-size: cover;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: 'Faster One', cursive;
+}
+
+#title {
+    color: red;
+}
+
+#subtitle {
+    color: blue;
+}
+
+.card-header {
+    background-color:#008CBA;
+    font-weight: bolder;
+}
+
+.card {
+    border-color: #008CBA;
+}
+
+.btn {
+    background-color:#008CBA;
+}
+
